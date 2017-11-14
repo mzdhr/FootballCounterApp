@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#563316</color>
+    <color name="colorPrimary">#77471F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="activity_background_color">#185D1B</color>
+    <color name="team_layout_background_color">#3DAA41</color>
+    <color name="team_text_view_color">#34443D</color>
+    <color name="foul_text_view_color">#5D0F31</color>
+    <color name="goal_text_view_color">#71F676</color>
+
+    <color name="button_color">#F69A4C</color>
+</resources>

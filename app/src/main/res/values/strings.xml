@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FootballCounter</string>
+    <string name="add_goal">add goal</string>
+    <string name="add_foul">add foul</string>
+    <string name="new_game">new game</string>
+    <string name="zero">0</string>
+</resources>
