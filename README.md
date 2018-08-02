@@ -1,5 +1,5 @@
 # Football Counter App
-Android App to count goal in football.. Udacity Project number 03 for Android Basic NanoDegree.
+Android App to count goal in football. Udacity Project number 03 for Android Basic NanoDegree.
 
 ## Built With
 * UI Design, ImageButton, TextView, Java.
